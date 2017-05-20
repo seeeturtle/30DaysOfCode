@@ -6,7 +6,7 @@ This Repo contains
 Solution codes for "HackerRank's 30 Days of code" written in Golang
 
 Look over this repo if your stuck.
-#Contents
+# Contents
 1. Day 1
 2. Day 2
 3. Day 3
