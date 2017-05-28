@@ -17,6 +17,9 @@ Look over this repo if your stuck.
 7. Day 7
 8. Day 8
 9. Day 9
+10. Day 10
+11. Day 11
+12. Day 12
 # #TODO
 - [ ] Solve every problem.
 - [ ] Add info of problem in each files.
